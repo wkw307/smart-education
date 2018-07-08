@@ -1,4 +1,5 @@
 
-bootstrap
-dist
-plugins
+#bootstrap
+#dist
+#plugins
+.DS_Store
